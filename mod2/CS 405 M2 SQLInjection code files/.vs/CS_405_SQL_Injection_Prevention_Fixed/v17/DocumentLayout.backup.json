@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zanem\\OneDrive\\Desktop\\SNHU - Local\\CS_405\\CS_405\\mod2\\CS 405 M2 SQLInjection code files\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D920FF-655F-F8C4-EE6D-06A1ED3FD657}|CS_405_SQL_Injection_Prevention_Fixed.vcxproj|C:\\Users\\zanem\\OneDrive\\Desktop\\SNHU - Local\\CS_405\\CS_405\\mod2\\CS 405 M2 SQLInjection code files\\cs 405 m2 sqlinjection code files\\SQLInjection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C7D920FF-655F-F8C4-EE6D-06A1ED3FD657}|CS_405_SQL_Injection_Prevention_Fixed.vcxproj|solutionrelative:cs 405 m2 sqlinjection code files\\SQLInjection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLInjection.cpp",
+              "DocumentMoniker": "C:\\Users\\zanem\\OneDrive\\Desktop\\SNHU - Local\\CS_405\\CS_405\\mod2\\CS 405 M2 SQLInjection code files\\CS 405 M2 SQLInjection code files\\SQLInjection.cpp",
+              "RelativeDocumentMoniker": "CS 405 M2 SQLInjection code files\\SQLInjection.cpp",
+              "ToolTip": "C:\\Users\\zanem\\OneDrive\\Desktop\\SNHU - Local\\CS_405\\CS_405\\mod2\\CS 405 M2 SQLInjection code files\\CS 405 M2 SQLInjection code files\\SQLInjection.cpp",
+              "RelativeToolTip": "CS 405 M2 SQLInjection code files\\SQLInjection.cpp",
+              "ViewState": "AgIAANcAAAAAAAAAAAAiwO8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-23T14:49:25.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
