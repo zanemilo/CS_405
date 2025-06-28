@@ -1,6 +1,6 @@
 # CS 405: Secure Coding
 **Author:** Zane M Deso  
-**Date:** 0/28/2025
+**Date:** 06/28/2025
 
 ---
 
@@ -13,27 +13,27 @@ This repository contains assignments, reflections, and projects completed for CS
 
 ### 1. Coding Zip Files
 Zipped assignments for secure coding tasks:
-- [Numeric Overflow (Module 1)](Coding%20Zip%20Files/Numeric_Overflow_Module_1.zip)
-- [SQL Injection Prevention (Module 2)](Coding%20Zip%20Files/SQL_Injection_Prevention_Module_2.zip)
-- [Buffer Overflow (Module 2)](Coding%20Zip%20Files/Buffer_Overflow_Module_2.zip)
-- [Exception Handling (Module 4)](Coding%20Zip%20Files/Exception_Handling_Module_4.zip)
-- [Unit Testing Milestone (Module 4)](Coding%20Zip%20Files/Unit_Testing_Milestone_Module_4.zip)
-- [Encryption Practices (Module 5)](Coding%20Zip%20Files/Encryption_Practices_Module_5.zip)
-- [Static Code Analysis (Module 5)](Coding%20Zip%20Files/Static_Code_Analysis_Module_5.zip)
+- [CS_405_Mod_One_Assignment.zip](1.%20Coding%20Zip%20Files/CS_405_Mod_One_Assignment.zip)
+- [CS_405_Mod_2_SQL_Injection_Prevention.zip](1.%20Coding%20Zip%20Files/CS_405_Mod_2_SQL_Injection_Prevention.zip)
+- [CS_405_Mod_2_Buffer_Overflow.zip](1.%20Coding%20Zip%20Files/CS_405_Mod_2_Buffer_Overflow.zip)
+- [CS_405_Mod_4_Exceptions.zip](1.%20Coding%20Zip%20Files/CS_405_Mod_4_Exceptions.zip)
+- [CS_405_Mod_4_Milestone_Unit_Testing.zip](1.%20Coding%20Zip%20Files/CS_405_Mod_4_Milestone_Unit_Testing.zip)
+- [CS_405_Module_5_Encryption.zip](1.%20Coding%20Zip%20Files/CS_405_Module_5_Encryption.zip)
+- [CS_405_Module_5_Static_Analysis.zip](1.%20Coding%20Zip%20Files/CS_405_Module_5_Static_Analysis.zip)
 
 ### 2. Portfolio Journal Reflection
-Final reflective journal summarizing learning outcomes and insights:  
-- [CS_405_Module_8_Journal.docx](Portfolio%20Journal%20Reflection/CS_405_Module_8_Journal.docx)
+Final reflective journal summarizing learning outcomes and insights:
+- [CS_405_Module_8_Journal.docx](2.%20Portfolio%20Journal%20Reflection/CS_405_Module_8_Journal.docx)
 
 ### 3. Project One Security Policy
-Formal security policy document covering secure coding standards, defense-in-depth, encryption, and access controls:  
-- [CS_405_Security_Policy.docx](Project%20One%20Security%20Policy/CS_405_Security_Policy.docx)
+Formal security policy document covering secure coding standards, defense-in-depth, encryption, and access controls:
+- [CS_405_Security_Policy.docx](3.%20Project%20One%20Security%20Policy/CS_405_Security_Policy.docx)
 
 ### 4. Project Two Presentation
 Presentation materials:
-- [PowerPoint slides](Project%20Two%20Presentation/CS_405_Project_Two_Presentation.pptx)
-- [Presentation script](Project%20Two%20Presentation/CS_405_Project_Two_Script.docx)
-- [Recorded presentation](Project%20Two%20Presentation/presentation.mkv)
+- [CS_405_Project_Two_Presentation.pptx](4.%20Project%20Two%20Presentation/CS_405_Project_Two_Presentation.pptx)
+- [CS_405_Project_Two_Script.docx](4.%20Project%20Two%20Presentation/CS_405_Project_Two_Script.docx)
+- [presentation.mkv](4.%20Project%20Two%20Presentation/presentation.mkv)
 
 ---
 
@@ -46,8 +46,8 @@ Presentation materials:
 
 ## Required Text
 - **Secure Coding in C and C++**  
-    Robert C. Seacord, 2nd Edition, Addison-Wesley  
-    ISBN: 978-0-13-298197-2
+  Robert C. Seacord, 2nd Edition, Addison-Wesley  
+  ISBN: 978-0-13-298197-2
 
 ---
 
@@ -57,4 +57,3 @@ Presentation materials:
 - Automated unit testing
 - Planning and implementing defense in depth (DiD)
 - Security gap analysis
-
